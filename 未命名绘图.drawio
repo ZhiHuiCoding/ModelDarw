@@ -465,10 +465,10 @@
             <mxPoint x="3659" y="-2397.32" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xMcn8nByqWtdfMh086Nu-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+        <mxCell id="xMcn8nByqWtdfMh086Nu-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=0;labelPosition=center;verticalLabelPosition=middle;fillColor=light-dark(#CCE5FF,#1D293B);strokeColor=light-dark(#080808, #5c79a3);" vertex="1" parent="1">
           <mxGeometry x="2945" y="-1647" width="133" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xMcn8nByqWtdfMh086Nu-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;" vertex="1" parent="1">
+        <mxCell id="xMcn8nByqWtdfMh086Nu-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=light-dark(#B8DBFF,#EDEDED);" vertex="1" parent="1">
           <mxGeometry x="3064" y="-1647" width="138" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xMcn8nByqWtdfMh086Nu-5" value="简单的呼叫通话及遥控开锁，智能局限单个家庭" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -489,7 +489,7 @@
         <mxCell id="xMcn8nByqWtdfMh086Nu-10" value="家庭分机联网可&lt;div&gt;与管理中心联系&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3067.67" y="-1587" width="103" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="xMcn8nByqWtdfMh086Nu-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;" vertex="1" parent="1">
+        <mxCell id="xMcn8nByqWtdfMh086Nu-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#B8DBFF;" vertex="1" parent="1">
           <mxGeometry x="3185.66" y="-1646" width="130.34" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xMcn8nByqWtdfMh086Nu-12" value="90年代末" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -501,7 +501,7 @@
         <mxCell id="xMcn8nByqWtdfMh086Nu-14" value="可视对讲应用，社区的概念形成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3185.66" y="-1587" width="103" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="xMcn8nByqWtdfMh086Nu-15" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;" vertex="1" parent="1">
+        <mxCell id="xMcn8nByqWtdfMh086Nu-15" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#99CCFF;" vertex="1" parent="1">
           <mxGeometry x="3300.33" y="-1647" width="130.34" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xMcn8nByqWtdfMh086Nu-16" value="2000-2010年" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -513,7 +513,7 @@
         <mxCell id="xMcn8nByqWtdfMh086Nu-18" value="智能家居，监控，周界防范，门禁等" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3300.33" y="-1586" width="103" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="xMcn8nByqWtdfMh086Nu-19" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;" vertex="1" parent="1">
+        <mxCell id="xMcn8nByqWtdfMh086Nu-19" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="3410.5" y="-1647" width="130.34" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xMcn8nByqWtdfMh086Nu-20" value="&lt;span style=&quot;font-size: 15px; text-wrap-mode: nowrap;&quot;&gt;数字化小区&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -525,7 +525,7 @@
         <mxCell id="xMcn8nByqWtdfMh086Nu-22" value="消费电子，计算机，管理通讯一体向数字小区发展" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3410.66" y="-1586" width="103" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="xMcn8nByqWtdfMh086Nu-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;" vertex="1" parent="1">
+        <mxCell id="xMcn8nByqWtdfMh086Nu-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="3518.66" y="-1648" width="130.34" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xMcn8nByqWtdfMh086Nu-24" value="&lt;span style=&quot;font-size: 15px; text-wrap-mode: nowrap;&quot;&gt;智慧社区&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
